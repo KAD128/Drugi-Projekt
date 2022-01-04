@@ -1,5 +1,5 @@
 # Snake 
-W pythonie \n
+W pythonie /n
 biblioteka pygame 
 sterowanie strzałkami lewo prawo góra dół
 koniec gry po uderzeniu w węża 
