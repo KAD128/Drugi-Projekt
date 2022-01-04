@@ -1,6 +1,6 @@
 # Snake 
-W pythonie /n
-biblioteka pygame 
+- W pythonie 
+- biblioteka pygame 
 sterowanie strzałkami lewo prawo góra dół
 koniec gry po uderzeniu w węża 
 przegrania po wpadnięciu na ściane (kraniec mapy)
